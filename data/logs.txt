@@ -1,0 +1,9 @@
+[INFO] 2026-05-01 23:23:40.719135 - Sistema iniciado
+[INFO] 2026-05-01 23:23:40.722031 - Cliente válido simulado correctamente
+[INFO] 2026-05-01 23:23:40.724266 - Servicio válido simulado correctamente
+[INFO] 2026-05-01 23:23:40.725863 - Reserva válida simulada correctamente
+[ERROR] 2026-05-01 23:23:40.731815 - Error esperado en cliente inválido - Nombre o correo inválido
+[ERROR] 2026-05-01 23:23:40.736984 - Error esperado en servicio inválido - Parámetros incorrectos del servicio
+[ERROR] 2026-05-01 23:23:40.738889 - Error esperado en reserva inválida - Datos inconsistentes en la reserva
+[ERROR] 2026-05-01 23:23:40.740705 - Error inesperado capturado - division by zero
+[INFO] 2026-05-01 23:23:40.753028 - Sistema finalizado
